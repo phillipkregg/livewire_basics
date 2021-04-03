@@ -15,7 +15,8 @@
 </head>
 
 <body>
-    <livewire:counter />
+    <livewire:contact-form />
+    {{-- <livewire:counter /> --}}
     <livewire:scripts />
 </body>
 
